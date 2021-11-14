@@ -32,7 +32,7 @@ access_token <- get_spotify_access_token()
 
 To get the desired playlist, I need to navigate through our own
 saved/followed playlists. My partner’s playlist name that I want to
-analyze is called “This is an experimental song to cluster modeling.”
+analyze is called “perfectly fine”.
 Unfortunately, Spotify’s API limits the user to get playlist tracks up
 to 100 items per request. Thus, I looped the process so I could get all
 the tracks from the desired playlist.
