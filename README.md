@@ -300,6 +300,9 @@ Energetic. This moods profiling is based on my opinion and my partner’s
 suggestions. *Turns out my partner likes to listen to energetic songs
 :D*
 
+Thank you for reading and hope you found this interesting. If you have any question
+feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/arifsetyawan1999/). 
+
 ## References
 
 <div id="refs" class="references csl-bib-body">
