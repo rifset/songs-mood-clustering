@@ -239,6 +239,7 @@ respectively 45.8% and 19.84% information from the data.
 Now, we are going to profile each cluster.
 
 <img src="spotify-analysis_files/figure-markdown_github/profile-plot-1-1.png" width="60%" style="display: block; margin: auto;" />
+
 **Cluster 1 (Tense Mood):** high energy, loudness, and tempo  
 Example tracks:
 
@@ -249,6 +250,7 @@ Example tracks:
     5. 2NE1 - COME BACK HOME
 
 <img src="spotify-analysis_files/figure-markdown_github/profile-plot-2-1.png" width="60%" style="display: block; margin: auto;" />
+
 **Cluster 2 (Relaxed Mood):** high instrumentalness and acousticness,
 low danceability  
 Example tracks:
