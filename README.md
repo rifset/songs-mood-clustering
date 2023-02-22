@@ -1,5 +1,8 @@
 # Songs mood clustering using K-means
 
+![](cover-spotify-clustering.jpg)
+*Illustration asset by [Pitchfork](https://pitchfork.com/news/spotify-acquires-live-audio-app-locker-room-to-build-clubhouse-competitor/)*
+
 ## Introduction
 
 Music has powerful impacts on human beings. It can change emotions and
