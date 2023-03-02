@@ -3,6 +3,18 @@
 ![](cover-spotify-clustering.jpg)
 *Illustration asset by [Pitchfork](https://pitchfork.com/news/spotify-acquires-live-audio-app-locker-room-to-build-clubhouse-competitor/)*
 
+## Table of Content
+  - [Introduction](#introduction)
+  - [Data Preparation](#data-preparation)
+    * [Data preview](#data-preview)
+    * [Feature extraction](#feature-extraction)
+  - [Clustering](#clustering)
+    * [Elbow method](#elbow-method)
+    * [K-means clustering](#k-means-clustering)
+    * [Cluster profiling](#cluster-profiling)
+  - [Conclusion](#conclusion)
+  - [References](#references)
+
 ## Introduction
 
 Music has powerful impacts on human beings. It can change emotions and
