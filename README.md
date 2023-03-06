@@ -15,6 +15,8 @@
   - [Conclusion](#conclusion)
   - [References](#references)
 
+---
+
 ## Introduction
 
 Music has powerful impacts on human beings. It can change emotions and
